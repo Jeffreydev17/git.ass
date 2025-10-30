@@ -9,4 +9,6 @@ ls -al - ls -al is used to list the content of your directory including hidden f
 touch - the word touch in git bash meaning creating an empty files
 echo - echo is used to write on the file created
 cp - cp meany copy i.e copy to another folder or duplicate
-mv - mv simply stand for move or rename text. you either move a text or rename itgicd
+mv - mv simply stand for move or rename text. you either move a text or rename it
+ls -al - this file is used to list all contect of your working directory including hidden file
+cat - the word cat means to castinate. i.e shows the content of the working directory
